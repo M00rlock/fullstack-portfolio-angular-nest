@@ -8,5 +8,10 @@
       "source": "/((?!assets/|favicon.ico|robots.txt|sitemap.xml).*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "git": {
+  "deploymentEnabled": {
+    "main": true
+  }
+}
 }
